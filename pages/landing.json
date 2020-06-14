@@ -1,0 +1,28 @@
+{
+
+
+    "greet": {
+        "greeting":"HOLLA !",
+        "introduction":"This is Sakshi, I am Front-end developer.",
+        "intro":" Nice to meet you!",
+        "img_profile":"https://lh3.googleusercontent.com/pijQ5y8H7NJ42KMpJfXXGAHx-tztVWF5sWTuVNi8KrDSqvZZPAJieRRFesMI0fDYZe3U3VVmsJwTDupUKZkTCfZzfw",
+        "img_background":"https://lh3.googleusercontent.com/8-BSPA6Ol278tZ1UxvXrwrnVu-FWCuVe6afMEUFmzbihAg_brEb7Ty6BfQeNFR_30Fo9MgaGRfYLQXb5GnNs7vjG"
+    },
+
+    "projects":{
+        "header":"My-Projects",
+        "subheader":"Have a look at my projects !"
+    },
+    "contact":{
+        "header":"Contact me",
+        "subheader":"If you wanna have a project with me fill the form and I'll get in touch with you."
+    },
+    "about":{
+        "header":"About me",
+        "subheader":"I am Sakshi Sawant from India",
+        "para":"I'm frontend developer currently pursuing Btech in Computer Science in India. I am passionate for creating user experience websites and a great enthusiastic for the computer algorithms and learning AI and Data Science. I have also worked with HappyShappy Pvt. Ltd. for 1 month as a social media intern."
+    }
+
+    
+    
+}
